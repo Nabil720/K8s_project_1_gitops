@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: portfolio
-          image: nanil0034/portfolio-app:latest
+          image: nanil0034/portfolio-app:1399ee1
           ports:
             - containerPort: 3000
